@@ -122,5 +122,3 @@ def connection_req():
 
 connection_req()
 
-# I haven't studied Natural Language Processing (NLP) yet, that's why i wasn't able to generate a hyper-personalized connection request.
-# I will start learning natural language processing technique's as early as possible in future.
